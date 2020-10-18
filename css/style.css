@@ -1,0 +1,56 @@
+body {
+	margin:0;
+	font-family: 'Oswald', sans-serif;
+}
+header {
+	background-color: #7F56F5 ;
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding: 100px 0;
+	line-height: 20px;
+}
+h1 {
+	margin: 0;
+	padding-bottom: 20px;
+}
+p {
+	margin:0;
+	line-height
+}
+.container {
+	width: 1200px;
+	overflow: hidden;
+	margin: auto;
+	padding: 50px;
+
+
+}
+.box {
+	max-width: 50%;
+	margin: auto;
+	float: left;
+	padding: 15px 100px;
+	box-sizing: border-box;
+
+}
+img {
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 20px;
+}
+.container p {
+	margin: 0;
+}
+.link {
+	background-color: rgb(127,86,245);
+	color: white;
+	padding: 10px 25px;	
+	border-radius: 10px;	
+	font-size: 15px;	
+	text-decoration: none;
+	margin-top: 10px;
+	display: inline-block;
+}
